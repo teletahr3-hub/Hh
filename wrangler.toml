@@ -5,7 +5,7 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "contact-bot-db"
-database_id = "ضع_الرقم_هنا"
+database_id = "e735c61d-c149-4d47-bedb-e2e4e498e074"
 
 [triggers]
 crons = ["* * * * *"]
